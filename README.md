@@ -66,9 +66,9 @@ I am a Software Engineer based in Dallas, TX. I am proficient in both front-end 
     <td width="33%" valign="top">
       <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Portfolio</h3>
         <br>
-        <p> <a href="https://www.ibrahimgurhan.com" rel="nofollow">Visit Site</a></p>
+        <p> <a href="https://www.fahimhasan.com" rel="nofollow">Visit Site</a></p>
         <br>
-        <a href="https://www.ibrahimgurhan.com" rel="nofollow">
+        <a href="https://www.fahimhasan.com" rel="nofollow">
             <img src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" width="100%" alt="Portfolio" data-canonical-src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML5, CSS3, Bootstrap, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
@@ -82,13 +82,13 @@ I am a Software Engineer based in Dallas, TX. I am proficient in both front-end 
 ## Connect with me  
 
 <div align="center">
-<a href="https://twitter.com/ibrahimCodes" target="_blank">
+<a href="https://twitter.com/ItsFahimHasan" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
 </a>
-<a href="https://github.com/ibrahimgurhandev" target="_blank">
+<a href="https://github.com/fahimhasandev/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
-<a href="https://linkedin.com/in/ibrahimgurhan" target="_blank">
+<a href="https://www.linkedin.com/in/fahimhasn/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
 </div>  
@@ -96,6 +96,6 @@ I am a Software Engineer based in Dallas, TX. I am proficient in both front-end 
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimgurhandev&show_icons=true&locale=en" align="center" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimgurhandev" align="center" width="40%"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fahimhasandev&show_icons=true&locale=en" align="center" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimhasandev" align="center" width="40%"/>
 </div> 
