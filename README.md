@@ -59,7 +59,7 @@ I am a Software Engineer based in Dallas, TX. I am proficient in both front-end 
         <p><a href="https://fahimhasandev.github.io/fancy-counter/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="http://www.cronofy.tech/" rel="nofollow">
-            <img src="https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif" width="100%" alt="Cronofy.tech" data-canonical-src="https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif" style="max-width:100%;">
+            <img src="https://github.com/fahimhasandev/fahimhasandev/blob/main/ezgif.com-optimize.gif" width="100%" alt="Cronofy.tech" data-canonical-src="https://github.com/fahimhasandev/fahimhasandev/blob/main/ezgif.com-optimize.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, Firebase, &amp; Twitter API </strong> - Cronofy - A web app that lets you schedule your twitter posts.</p>
     </td>
