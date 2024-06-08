@@ -1,5 +1,6 @@
 
-![](https://i.imgur.com/M5m4XMs.png)
+![](https://imgur.com/WIB5NcI)
+
 ### Hi there 👋, My name is Fahim
 I am a Software Engineer based in Dallas, TX. I am proficient in both front-end and Back-end development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I am also a certified IT professional with numerous certifications, including a Microsoft Azure AI certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
