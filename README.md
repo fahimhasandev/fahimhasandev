@@ -1,7 +1,7 @@
 ![me](https://github.com/fahimhasandev/fahimhasandev/blob/main/Fahim%20Hasan_github_banner.png)
 
 ### Hi there 👋, My name is Fahim
-I am a Software Engineer based in Dallas, TX. I am proficient in both front-end and Back-end development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I am also a certified IT professional with numerous certifications, including a Microsoft Azure AI certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
+I am a Software Engineer based in Dallas, TX. I am proficient in both front-end and Back-end development. I have extensive knowledge in HTML, CSS, JavaScript, TypeScript, Node.js, MongoDB, and React. I am also a certified IT professional with numerous certifications, including a Microsoft Azure AI certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
