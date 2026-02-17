@@ -45,14 +45,6 @@ Playwright • Cypress • Selenium • Webdriver.io • Jest • Mocha • Reac
 
 ---
 
-## Professional Profile
-
-As a certified IT professional, I’m passionate about transforming creative ideas into high-quality, production-ready software. I’m committed to writing clean, maintainable code and delivering world-class solutions that create real impact.
-
-## What Drives Me
-
-I enjoy solving complex problems, learning emerging technologies, and contributing to innovative projects. My goal is to continuously grow as an engineer while building software that makes a meaningful difference.
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
  
@@ -146,6 +138,14 @@ I enjoy solving complex problems, learning emerging technologies, and contributi
 </a>  
 </div>  
 <br/>
+
+## Professional Profile
+
+As a certified IT professional, I’m passionate about transforming creative ideas into high-quality, production-ready software. I’m committed to writing clean, maintainable code and delivering world-class solutions that create real impact.
+
+## What Drives Me
+
+I enjoy solving complex problems, learning emerging technologies, and contributing to innovative projects. My goal is to continuously grow as an engineer while building software that makes a meaningful difference.
 
 ## Github Stats  
 
