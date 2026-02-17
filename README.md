@@ -3,18 +3,18 @@
 # Hi there 👋, My name is Fahim
 I'm a **Full-Stack Software Engineer** with strong expertise in both front-end and back-end development. I specialize in building scalable, efficient, and user-focused applications using modern web technologies.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
 - **Backend:** Node.js  
 - **Database:** MongoDB  
 - **Cloud & AI:** Microsoft Azure (Azure AI Certified)
 
-## 💼 Professional Profile
+## Professional Profile
 
 As a certified IT professional, I’m passionate about transforming creative ideas into high-quality, production-ready software. I’m committed to writing clean, maintainable code and delivering world-class solutions that create real impact.
 
-## 🌱 What Drives Me
+## What Drives Me
 
 I enjoy solving complex problems, learning emerging technologies, and contributing to innovative projects. My goal is to continuously grow as an engineer while building software that makes a meaningful difference.
 
