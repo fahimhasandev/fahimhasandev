@@ -1,14 +1,49 @@
 ![me](https://github.com/fahimhasandev/fahimhasandev/blob/main/Fahim%20Hasan_github_banner.png)
 
 # Hi there 👋, My name is Fahim
-I'm a **Full-Stack Software Engineer** with strong expertise in both front-end and back-end development. I specialize in building scalable, efficient, and user-focused applications using modern web technologies.
+I'm a **Full-Stack Software Engineer** with strong expertise in both front-end and back-end development. I specialize in building scalable, efficient, and user-focused applications using modern web technologies using **JavaScript and TypeScript**. I specialize in modular UI design, micro-frontend architectures, and component-driven development, transforming Figma-based UI/UX designs into pixel-perfect, fully responsive interfaces.
+
+I focus on performance optimization, accessibility (WCAG), clean architecture, and scalable frontend systems that deliver measurable business impact.
+
+---
+
+## Core Expertise
+
+- **Frontend Architecture:** Component-based systems, micro-frontends, design systems, modular UI patterns  
+- **UI Engineering:** Pixel-perfect Figma implementation, responsive design, mobile-first development  
+- **Accessibility & Standards:** WCAG compliance, semantic HTML, progressive enhancement  
+- **Performance Optimization:** Code splitting, lazy loading, bundle reduction, Core Web Vitals improvements  
+- **State Management:** Redux Toolkit, RTK Query, normalized state design  
+- **Secure Routing & Auth:** Role-based routing, JWT authentication, protected routes  
+- **Testing & Quality:** Playwright, Cypress, Jest, React Testing Library  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD pipelines  
+
+---
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
-- **Backend:** Node.js  
-- **Database:** MongoDB  
-- **Cloud & AI:** Microsoft Azure (Azure AI Certified)
+### **Languages**
+HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • Python  
+
+### **Frontend**
+React.js • Next.js (SSR) • Redux Toolkit • RTK Query • Tailwind CSS • Material UI • Vite • React Router v6  
+
+### **Backend**
+Node.js • Express.js • NestJS • REST APIs • GraphQL • Django • Flask • FastAPI  
+
+### **Databases**
+PostgreSQL • MySQL • MongoDB • Oracle  
+
+### **CMS**
+Contentful • Strapi • Payload CMS  
+
+### **Cloud & DevOps**
+AWS (S3, Lambda, DynamoDB, Step Functions, CDK) • Docker • Kubernetes • Terraform • CI/CD  
+
+### **Testing & Automation**
+Playwright • Cypress • Selenium • Webdriver.io • Jest • Mocha • React Testing Library  
+
+---
 
 ## Professional Profile
 
